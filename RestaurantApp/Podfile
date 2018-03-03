@@ -1,0 +1,7 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'RestaurantApp' do
+  pod 'YelpAPI', '~> 2.0'
+  pod 'AARatingBar'
+end
